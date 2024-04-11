@@ -1,13 +1,14 @@
 # CHANGELOG
 
 ## {DATE}
-### Contributors
-...
+04/11/2024
+### Contributors 
+John Mamola
 
-### Added
-...
+### Added 
+placed picture and hello world in background
 
-### Changed
+### 
 ...
 
 ### Removed
